@@ -1,3 +1,5 @@
+https://skillbox.ru/upload/setka_images/16330718122024_b1f5fb33da8f50f319a53de56ac6374150b960ea.gif
+
 # 👋 Hi, I'm Faini
 
 **I'm a 13-year-old developer passionate about building tools, bots, and mods.**  
