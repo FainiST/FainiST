@@ -1,4 +1,3 @@
-https://skillbox.ru/upload/setka_images/16330718122024_b1f5fb33da8f50f319a53de56ac6374150b960ea.gif
 
 # 👋 Hi, I'm Faini
 
@@ -17,7 +16,7 @@ Currently focused on learning systems programming, backend frameworks, and game 
 - 🌙 Lua — scripting, game plugins
 - 🟨 JavaScript — bots, frontend experiments
 - ☕ Java — Minecraft plugins/mods (Paper/Fabric)
-
+[![FainiST's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FainiST&theme=tokyo-night)](https://github.com/FainiST/github-readme-activity-graph)
 ---
 
 ## 📬 Contact & Links
