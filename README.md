@@ -44,18 +44,18 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Faini&show_icons=true&theme=github_dark&hide=issues&count_private=true" height="160">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Faini&theme=dark&hide_border=true" height="160">
+  <img src="https://github-readme-stats.vercel.app/api?username=FainiST&show_icons=true&theme=github_dark&hide=issues&count_private=true" height="160">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FainiST&theme=dark&hide_border=true" height="160">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faini&layout=compact&theme=github_dark" height="160">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FainiST&layout=compact&theme=github_dark" height="160">
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Faini&label=Profile%20Views&color=blueviolet&style=flat-square" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=FainiST&label=Profile%20Views&color=blueviolet&style=flat-square" alt="profile views"/>
 </p>
 
 ---
